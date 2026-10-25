@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://survive-fv.netlify.app/sitemap.xml
